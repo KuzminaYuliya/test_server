@@ -1,3 +1,1 @@
-# AHJ_DIPLOMA_BACK
-
-https://ahjdback.herokuapp.com/
+ https://obscure-thicket-44119.herokuapp.com/
